@@ -78,6 +78,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji # Add support for emojis (https://github.com/jekyll/jemoji)
 
 # Exclude these files from your production _site
 exclude:
