@@ -3,11 +3,11 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{% if page.title_prefix != "" %}
+  <h1>{% if page.title_prefix %}
   		{{ page.title_prefix }}
 		{% endif %}
 		{{ page.title }}
-		{% if page.title_suffix != "" %}
+		{% if page.title_suffix %}
 		{{ page.title_suffix }}
 		{% endif %}</h1>
 
