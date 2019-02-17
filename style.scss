@@ -113,6 +113,12 @@ img {
   max-width: 100%;
 }
 
+figcaption {
+  text-align: center;
+  color: $gray;
+  font-style: italic
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
