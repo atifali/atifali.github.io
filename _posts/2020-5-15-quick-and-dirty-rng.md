@@ -4,7 +4,7 @@ title: Quick and Dirty Hardware RNG for ESP32!
 title_suffix: <span>:hourglass::loop::watch::hourglass_flowing_sand:</span>
 ---
 
-A couple days back while working with an ESP32 dev board I came across a problem whose solution required me to simulate certain signals within my embedded system.
+A couple days back while working with an ESP32 dev board I came across a problem whose solution required me to simulate certain signals within my embedded system.<!-- more -->
 
 The numbers that were to be simulated needed to look fairly realistic across a certain bounded interval. Now this is a perfect use case for the good ol' [_random()_](https://www.arduino.cc/reference/en/language/functions/random-numbers/random/) function within the Arduino IDE. 
 
