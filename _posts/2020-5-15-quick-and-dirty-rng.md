@@ -10,7 +10,7 @@ The numbers that were to be simulated needed to look fairly realistic across a c
 
 And most readers who have used this pseudo-random generator would recall that this function needs to be __properly randomly seeded__ right before any executions of the function (other wise the seemingly random pattern that the function generates is identical for every subsequent reboot run). We use the [_randomSeed()_](https://www.arduino.cc/reference/en/language/functions/random-numbers/randomseed/) function to accomplish this at the very beginning of the program execution.
 
-Now, I tried using the typically recommended seeding method of [_analogRead()_ on a NC pin](https://www.arduino.cc/reference/en/language/functions/random-numbers/randomseed/) but it did not work since I kept getting a constant voltage on it (not too random indeed!). My next option was to try seeding via the internal temperature sensor on the ESP32, since I thought that there was one on the newer versions. Turns out I was wrong. In the newer versions the internal temperature sensor has beed deprecated in some cases.
+Now, I tried using the typically recommended seeding method of [_analogRead()_ on a NC pin](https://www.arduino.cc/reference/en/language/functions/random-numbers/randomseed/) but it did not work since I kept getting a constant voltage on it (not too random indeed!). My next option was to try seeding via the internal temperature sensor on the ESP32, since I thought that there was one on the newer versions. Turns out I was wrong. In the newer versions the internal temperature sensor has been deprecated in some cases.
 
 The remaining option was to some how quickly utilize the hall sensor that comes with the micro-controllers to create some random numbers. Here is a bit of trickery that I used: 
 
@@ -53,11 +53,11 @@ void loop() {
 }
 ```
 
-Note that I am not an expert of Random Number Generators or Probability Theory or Statistics so I can totally imagine that there is still some kind of pattern or the so called oracle attack vector from the outputs of this function. But for my application this worked just fine. Remember this is a __Quick & Dirty__ Method.
+Note that I am not an expert in Random Number Generators or Probability Theory or Statistics so I can totally imagine that there is still some kind of pattern or the so called oracle attack vector from the outputs of this function. But for my application this worked just fine. Remember this is a __Quick & Dirty__ Method.
 
-Next steps in validating and further improving this would be to pass this through some kind of statistical pattern analyzer (not sure what the technical term for that is :cry:) and then try to iterate based on that. Lets leave that up for another post!
+Next steps in validating and further improving this would be to pass this through some kind of statistical pattern analyzer (not yet sure what the technical term for that is :cry:) and then try to iterate based on that. Lets leave that up for another post!
 
 Let me know what you think of the above way and if you have any suggestions please leave a comment!  
 
 #### TL;DR
-On the ESP32 micro-controllers there are built-in sensors like the internal temperature sensor and the hall sensor which can be used to generate hardware random numbers. They can be a good alternative in place of the floating analog voltage and current system time for simple seeding of the built-in RNG while creating randomness in your embedded systems!
+On the ESP32 micro-controllers there are built-in sensors like the internal temperature sensor and the hall sensor which can be used to generate hardware random numbers. They can be a good alternative in place of the floating analog voltage for simple seeding of the built-in pseudo RNG while creating randomness in your embedded systems!
