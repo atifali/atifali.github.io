@@ -34,6 +34,8 @@ I believe that the real inspiration lie within the journey itself. And more impo
 
 ### “Sometimes it’s the journey that teaches you a lot about your destination.” -Drake
 
+![_config.yml]({{ site.baseurl }}/images/projects-everyday-titans-podcast-cover.png "Figure 1: ")
+
 ## Synopsis
 
 On this show, Atif Ali interviews local entrepreneurs, artists, makers, activists and leaders within the lower mainland BC. The focus is on getting to know THEIR stories and journeys so far, in the quest to providing some meaningful and relatable inspiration, because we believe that we all can be Everyday Titans.
