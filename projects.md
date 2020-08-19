@@ -12,7 +12,7 @@ permalink: /projects/
     float: left;
     width: 50%;
     height: auto;
-    padding: 1px;
+    padding: 5px;
     }
 
     /* Clear floats after the columns */
@@ -83,5 +83,11 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
+        <img src="/images/projects-enigma-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="{{ site.baseurl }}/enigma">
+        <div class="img-overlay">
+            <p class="text">Enigma - Client-Side Web App For RSA Public Key Cryptography System</p>
+        </div>
+        </a>
     </div>
 </div>
