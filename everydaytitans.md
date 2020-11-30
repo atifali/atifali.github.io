@@ -44,6 +44,7 @@ On this show, Atif Ali interviews local entrepreneurs, artists, makers, activist
 
 <div style="text-align:center;">
     <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Pre-launch-Trailer-egbuhq/a-a2kpico" height="102px" width="400px" frameborder="0" scrolling="no" display="block"></iframe>
+    <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Launch-Trailer-en4rd7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ### Find us on
@@ -52,19 +53,19 @@ On this show, Atif Ali interviews local entrepreneurs, artists, makers, activist
         <img src="/images/anchorfm-logo.png" alt="Anchor fm" height="75px" width="75px">
     </a>
     <a href="https://open.spotify.com/show/0dq37TwcyyxJUMCR3ICbf6">
-        <img src="/images/spotify-logo.png" alt="Anchor fm" height="75px" width="75px">
+        <img src="/images/spotify-logo.png" alt="Spotify" height="75px" width="75px">
     </a>
-    <a href="#">
-        <img src="/images/googlepodcasts-logo.png" alt="Anchor fm" height="75px" width="75px">
+    <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yYTUwYWMxMC9wb2RjYXN0L3Jzcw==">
+        <img src="/images/googlepodcasts-logo.png" alt="Google Podcast" height="75px" width="75px">
     </a>
-    <a href="#">
-        <img src="/images/applepodcasts-logo.png" alt="Anchor fm" height="75px" width="75px">
+    <a href="https://podcasts.apple.com/us/podcast/everyday-titans/id1522368829?uo=4">
+        <img src="/images/applepodcasts-logo.png" alt="Apple Podcast" height="75px" width="75px">
     </a>
     <a href="https://pca.st/g0lgj8pb">
-        <img src="/images/pocketcasts-logo.png" alt="Anchor fm" height="75px" width="75px">
+        <img src="/images/pocketcasts-logo.png" alt="Pocket Casts" height="75px" width="75px">
     </a>
     <a href="https://anchor.fm/s/2a50ac10/podcast/rss">
-        <img src="/images/rss-logo.png" alt="Anchor fm" height="75px" width="75px">
+        <img src="/images/rss-logo.png" alt="RSS" height="75px" width="75px">
     </a>
 </div>
 
