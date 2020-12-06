@@ -75,7 +75,7 @@ On this show, Atif Ali interviews entrepreneurs, artists, makers, activists and 
 To show your support please leave your comments, suggestions and well wishes down in the comments section. If you would like to show your appreciation with monetary donations please head over to the podcast's Anchor profile by clicking on the button below and then clicking on the "Support" button there to become a patreon. I value your support and it means the world to me!
 
 <div style="text-align:center;">
-    <a href="https://anchor.fm/everydaytitans">
+    <a href="https://anchor.fm/everydaytitans/support">
         <button class="button">Become a Supporter</button>
     </a>
 </div>
