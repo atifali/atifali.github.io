@@ -38,7 +38,7 @@ I believe that the real inspiration lie within the journey itself. And more impo
 
 ## Synopsis
 
-On this show, Atif Ali interviews local entrepreneurs, artists, makers, activists and leaders within the lower mainland BC. The focus is on getting to know THEIR stories and journeys so far, in the quest to providing some meaningful and relatable inspiration, because we believe that we all can be Everyday Titans.
+On this show, Atif Ali interviews entrepreneurs, artists, makers, activists and leaders within our communities. The focus is on getting to know their stories and journeys so far, in the quest to providing some meaningful and relatable inspiration, because we believe that inspiration is all around us and we all can be Everyday Titans.
 
 ## Listen
 
