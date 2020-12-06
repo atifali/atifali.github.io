@@ -43,8 +43,9 @@ On this show, Atif Ali interviews local entrepreneurs, artists, makers, activist
 ## Listen
 
 <div style="text-align:center;">
-    <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Pre-launch-Trailer-egbuhq/a-a2kpico" height="102px" width="400px" frameborder="0" scrolling="no" display="block"></iframe>
+    <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Designing-Next-Gen-Proactive-Pharmacy-Care-with-Nick-Hui-ene0hg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
     <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Launch-Trailer-en4rd7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Pre-launch-Trailer-egbuhq/a-a2kpico" height="102px" width="400px" frameborder="0" scrolling="no" display="block"></iframe>
 </div>
 
 ### Find us on
