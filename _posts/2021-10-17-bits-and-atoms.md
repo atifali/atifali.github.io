@@ -23,15 +23,15 @@ This classification is important in understanding how businesses have created va
 
 The early phases of the industrial revolution brought us the printing press, steam engine, milling machines, telephones and electricity among other things. This gave rise to a slew of industries that commodified the products that derived from these inventions. The early steel mills, textile factories, utilities, railway and car companies are an example of businesses that drove innovation within our world of _atoms_. The progress was slow but steady, and culminated in the huge conglomerates of the early and mid-20th century.
 
-![_config.yml]({{ site.baseurl }}/images/bits-and-atoms3.jpeg "Figure 3: ")
-<figcaption>Figure 2: Early semiconductor companies and the birth of bits (<a href="https://tinyurl.com/wtpbuetc">source</a>)</figcaption>
-
 With the rising demands of a whole bunch of products coupled with the limits of physical labor across these industries, came about the need of automating the manufacturing processes of various factories within the supply chain. This meant that computation capabilities started becoming paramount to a business' success in a hyper-competitive market.
+
+![_config.yml]({{ site.baseurl }}/images/bits-and-atoms3.jpg "Figure 3: ")
+<figcaption>Figure 3: Early semiconductor companies and the birth of bits (<a href="https://tinyurl.com/78f3vpnk">source</a>)</figcaption>
 
 With the invention of the transistor and the early computers, a whole new avenue for value creation opened up. We started seeing more and more automation within our workplaces and even our homes. As the computing capabilities in general grew in tandem with _Moore's Law_ we entered the digital age. This gave birth to the businesses that commodified computation in the form of digitized versions of the products that were already part of our daily lives. It was all about making them compact, smart and efficient. This came about in the form of cellphones, digital cameras, medical devices, televisions, digital radios etc. This is also when the personal computing revolution started taking shape.
 
 ![_config.yml]({{ site.baseurl }}/images/bits-and-atoms4.png "Figure 4: ")
-<figcaption>Figure 2: Technology companies entering the world of bits (<a href="https://tinyurl.com/c5djc8k">source</a>)</figcaption>
+<figcaption>Figure 4: Technology companies entering the world of bits (<a href="https://tinyurl.com/c5djc8k">source</a>)</figcaption>
 
 The internet then paved the way for the early technology companies that also mainly profited from value generation in the world of _bits_. We saw the rise of software  based companies that made computation cheaper, efficient and more applicable to the problems within out daily lives. Due to the unregulated nature of the digital world and by the virtue of the speed at which bits operate we were able to see exceptional early products that drastically changed the way we communicated, shared knowledge and interacted culturally with each other across boundaries of the physical world.
 
@@ -40,7 +40,7 @@ With this contrast in the background it is quite clear that in some sense the gr
 The early internet companies had a spill over effect on the physical world too, where monumental economic value was generated when atoms in essence got converted to bits. This was in the form of physical books being converted to eBooks, CD and DVDs being converted to music and video transmission over the internet, money changing hands via online payment processors, newspapers to digital media etc. 
 
 ![_config.yml]({{ site.baseurl }}/images/bits-and-atoms5.jpg "Figure 5: ")
-<figcaption>Figure 2: At the intersection of bits and atoms (<a href="https://tinyurl.com/5n5byexa">source</a>)</figcaption>
+<figcaption>Figure 5: At the intersection of bits and atoms (<a href="https://tinyurl.com/5n5byexa">source</a>)</figcaption>
 
 This slowly morphed into a collection of businesses starting to operate at this intersection directly where we saw the combination of both physical and digital products working in tandem. This is giving rise to an unprecedented level of change within our physical worlds influenced by the limitless potential of the digital world.
 
