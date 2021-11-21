@@ -43,6 +43,7 @@ On this show, Atif Ali interviews entrepreneurs, artists, makers, activists and 
 ## Listen
 
 <div style="text-align:center;">
+    <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Merging-the-Digital--Physical-and-Artificial-with-Adam-Wilson-e1ajao6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
     <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Strength--Resilience-and-Community-with-Jeremy-Martin-e1288st" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
     <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Decentralization--Web-and-Self-Expression-with-Govind-Mohan-eun581" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
     <iframe src="https://anchor.fm/everydaytitans/embed/episodes/Fortune-Telling-and-Product-Design-with-Afshin-Mehin-epolk1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
