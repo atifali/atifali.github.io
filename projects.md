@@ -91,7 +91,7 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
-        <img src="/images/projects-spawnlab-cover" alt="Avatar" class="image" style="width:100%">
+        <img src="/images/projects-spawnlab-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="https://spawnlab.ca/">
         <div class="img-overlay">
             <p class="text">SpawnLab - Spawning The Future 🌱</p>
