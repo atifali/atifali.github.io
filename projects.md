@@ -90,4 +90,20 @@ permalink: /projects/
         </div>
         </a>
     </div>
+    <div class="column">
+        <img src="/images/projects-spawnlab-cover" alt="Avatar" class="image" style="width:100%">
+        <a href="https://spawnlab.ca/">
+        <div class="img-overlay">
+            <p class="text">SpawnLab - Spawning The Future 🌱</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
+        <img src="/images/projects-jjunkyard-robotics-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://github.com/jjunkyard">
+        <div class="img-overlay">
+            <p class="text">Jjunkyard - Tatooine Droids Reloaded 🤖</p>
+        </div>
+        </a>
+    </div>
 </div>
