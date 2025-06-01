@@ -83,6 +83,22 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
+        <img src="/images/projects-enigma-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="{{ site.baseurl }}/enigma">
+        <div class="img-overlay">
+            <p class="text">Enigma - Client-Side Web App For RSA Public Key Cryptography System</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
+        <img src="/images/projects-jjunkyard-robotics-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="jjunkyard.github.io">
+        <div class="img-overlay">
+            <p class="text">Jjunkyard - Tatooine Droids Reloaded 🤖</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
         <img src="/images/projects-spawnlab-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="https://spawnlab.ca/">
         <div class="img-overlay">
