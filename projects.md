@@ -92,7 +92,7 @@ permalink: /projects/
     </div>
     <div class="column">
         <img src="/images/projects-jjunkyard-robotics-cover.png" alt="Avatar" class="image" style="width:100%">
-        <a href="jjunkyard.github.io">
+        <a href="https://jjunkyard.github.io/">
         <div class="img-overlay">
             <p class="text">Jjunkyard - Tatooine Droids Reloaded 🤖</p>
         </div>
