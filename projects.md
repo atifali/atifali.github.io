@@ -75,10 +75,10 @@ permalink: /projects/
 
 <div class="row">
     <div class="column">
-        <img src="/images/projects-everyday-titans-podcast-cover.png" alt="Avatar" class="image" style="width:100%">
-        <a href="{{ site.baseurl }}/everydaytitans">
+        <img src="/images/projects-todo-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://todo-app-react-bgzb.onrender.com">
         <div class="img-overlay">
-            <p class="text">Everyday Titans Podcast Show</p>
+            <p class="text">Todo App - A simple React App for Task Management</p>
         </div>
         </a>
     </div>
@@ -87,6 +87,14 @@ permalink: /projects/
         <a href="{{ site.baseurl }}/enigma">
         <div class="img-overlay">
             <p class="text">Enigma - Client-Side Web App For RSA Public Key Cryptography System</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
+        <img src="/images/projects-everyday-titans-podcast-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="{{ site.baseurl }}/everydaytitans">
+        <div class="img-overlay">
+            <p class="text">Everyday Titans Podcast Show</p>
         </div>
         </a>
     </div>
