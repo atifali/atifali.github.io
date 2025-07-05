@@ -75,6 +75,14 @@ permalink: /projects/
 
 <div class="row">
     <div class="column">
+        <img src="/images/projects-markdown-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://markdown-previewer-qxgb.onrender.com">
+        <div class="img-overlay">
+            <p class="text">Markdown Previewer - A simple WYSIWYG Markdown Editor</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
         <img src="/images/projects-todo-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="https://todo-app-react-bgzb.onrender.com">
         <div class="img-overlay">
