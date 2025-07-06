@@ -99,6 +99,14 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
+        <img src="/images/projects-tenzies-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://tenzies-tv9j.onrender.com">
+        <div class="img-overlay">
+            <p class="text">Tenzies - Play a game of Tenzie in your Browser</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
         <img src="/images/projects-everyday-titans-podcast-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="{{ site.baseurl }}/everydaytitans">
         <div class="img-overlay">
