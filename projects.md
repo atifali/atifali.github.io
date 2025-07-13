@@ -115,6 +115,14 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
+        <img src="/images/projects-invoice-generator-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://invoice-generator-zo54.onrender.com">
+        <div class="img-overlay">
+            <p class="text">Invoice Generator - Generate one-time invoices easily</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
         <img src="/images/projects-everyday-titans-podcast-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="{{ site.baseurl }}/everydaytitans">
         <div class="img-overlay">
