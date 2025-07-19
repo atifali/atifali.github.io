@@ -107,6 +107,14 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
+        <img src="/images/projects-snake-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://snake-game-fxdv.onrender.com">
+        <div class="img-overlay">
+            <p class="text">Snake - Play a game of snake in your browser</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
         <img src="/images/projects-qr-code-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="https://qr-code-generator-b2q6.onrender.com">
         <div class="img-overlay">
