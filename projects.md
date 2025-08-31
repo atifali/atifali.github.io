@@ -99,6 +99,14 @@ permalink: /projects/
         </a>
     </div>
     <div class="column">
+        <img src="/images/projects-notetaker-cover.png" alt="Avatar" class="image" style="width:100%">
+        <a href="https://notetaker-app-i9nq.onrender.com">
+        <div class="img-overlay">
+            <p class="text">NoteTaker - A simple notetaking CRUD App</p>
+        </div>
+        </a>
+    </div>
+    <div class="column">
         <img src="/images/projects-tenzies-cover.png" alt="Avatar" class="image" style="width:100%">
         <a href="https://tenzies-tv9j.onrender.com">
         <div class="img-overlay">
